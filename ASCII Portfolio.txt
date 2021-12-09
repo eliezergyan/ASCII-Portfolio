@@ -1,0 +1,6 @@
+$ git checkout HEAD portrait.txt
+$ git add portrait.txt
+$ git commit -m "First Commit"
+$ git add .
+$ git reset HEAD house.txt
+$ git commit -m "Last Commit"
